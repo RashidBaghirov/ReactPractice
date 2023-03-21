@@ -2,7 +2,7 @@ import React from "react";
 import SearchBar from "./SearchBar";
 import MovieList from "./MovieList";
 import axios from "axios";
-require("dotenv").config();
+
 
 class App extends React.Component{
 state={
@@ -19,7 +19,7 @@ state={
 // }
 
 async componentDidMount(){
-    const response=await axios.get(`https://api.themoviedb.org/3/movie/popular?api_key=${process.env.REACT_APP_API_KEY}&language=en-US&page=1`)
+    const response=await axios.get(`https://api.themoviedb.org/3/movie/popular?api_key=42f0f52044ccdb0f4358249ea9cd7037&language=en-US&page=1`)
     this.setState({movies:response.data.results})
 }
 
