@@ -1,0 +1,46 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Flash",
+      "rating": 8.3,
+      "overview": "The series follows Barry Allen, portrayed by Grant Gustin, a crime scene investigator who gains super-human speed, which he uses to fight criminals, including others who have also gained superhuman abilities.",
+      "img": "https://bleedingcool.com/wp-content/uploads/2023/01/FmJmnpLaUAAjCLF-2-1200x675.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Superman",
+      "rating": 8.3,
+      "overview": "The series follows Barry Allen, portrayed by Grant Gustin, a crime scene investigator who gains super-human speed, which he uses to fight criminals, including others who have also gained superhuman abilities.",
+      "img": "https://i.ytimg.com/vi/YF1eYbfbH5k/maxresdefault.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Spiderman",
+      "rating": 8.3,
+      "overview": "The series follows Barry Allen, portrayed by Grant Gustin, a crime scene investigator who gains super-human speed, which he uses to fight criminals, including others who have also gained superhuman abilities.",
+      "img": "https://i.ytimg.com/vi/YF1eYbfbH5k/maxresdefault.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Arrow",
+      "rating": 8.3,
+      "overview": "The series follows Barry Allen, portrayed by Grant Gustin, a crime scene investigator who gains super-human speed, which he uses to fight criminals, including others who have also gained superhuman abilities.",
+      "img": "https://bleedingcool.com/wp-content/uploads/2023/01/FmJmnpLaUAAjCLF-2-1200x675.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Human",
+      "rating": 8.3,
+      "overview": "The series follows Barry Allen, portrayed by Grant Gustin, a crime scene investigator who gains super-human speed, which he uses to fight criminals, including others who have also gained superhuman abilities.",
+      "img": "https://i.ytimg.com/vi/YF1eYbfbH5k/maxresdefault.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Captain America",
+      "rating": 8.3,
+      "overview": "The series follows Barry Allen, portrayed by Grant Gustin, a crime scene investigator who gains super-human speed, which he uses to fight criminals, including others who have also gained superhuman abilities.",
+      "img": "https://bleedingcool.com/wp-content/uploads/2023/01/FmJmnpLaUAAjCLF-2-1200x675.jpg"
+    }
+  ]
+} 
